@@ -4,7 +4,7 @@ Uma aplicação web que vai utilizar dos conceitos do React para desenvolver uma
 
 ## 🚀 Começando
 
-## Versão da aplicação
+### Versão da aplicação
 - Vite: 3.0
 - React: 18.2
 - TypeScript: 4.6
