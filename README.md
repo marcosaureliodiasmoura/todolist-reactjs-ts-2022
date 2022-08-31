@@ -27,7 +27,7 @@ Após instalação das dependências, execute localmente
 ```
 npm run dev
 ```
-Acesse em seu navegador:
+Acesse em seu navegador o seguinte endereço:
 
 ```
 http://localhost:5173/
